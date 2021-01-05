@@ -1,0 +1,32 @@
+body{
+    background: rgb(235, 213, 213);
+    margin-left: 200px;
+    margin-right: 200pxs;
+}
+
+header{
+    margin-top: 70px;
+}
+
+h1{
+    color:purple;
+    font-family: fantasy;
+}
+
+h2{
+    font-family: fantasy;
+}
+
+p  {
+    font-size: 18px;
+}
+
+.img_padrao{
+    margin-bottom: 20px;
+    width: 300px;
+}
+
+.img_clientes{
+    width: 150px;
+}
+
